@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #c99c9c;
+  overflow: hidden;
+}
+.navbar-nav {
+  list-style: none;
+  float: left;
+}
+.navbar-nav li {
+  float: left;
+}
+.navbar-nav li a {
+  display: block;
+  color: #020202;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font: bold;
+}
